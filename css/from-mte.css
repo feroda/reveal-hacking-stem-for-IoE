@@ -78,3 +78,7 @@ img.x80 {
 .black {
     color: black;
 }
+
+.small {
+    font-size: 0.8em !important;
+}
