@@ -54,8 +54,27 @@ img.x80 {
 .slide-background.fullcover{background-size:contain}
 
 .background-opaque {
-    background-color: green;
     opacity: 0.8;
     border-radius: 0.5em;
     padding: 0 2em !important;
+}
+.back-green {
+    background-color: green;
+}
+.back-grey {
+    background-color: grey;
+}
+.back-lightgrey {
+    background-color: lightgrey;
+}
+.back-lightgreen {
+    background-color: rgba(14, 161, 26, 0.45);
+}
+
+.back-greenarrow {
+    background-color: rgb(136, 158, 65);
+}
+
+.black {
+    color: black;
 }

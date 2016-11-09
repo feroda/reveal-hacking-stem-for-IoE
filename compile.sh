@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jade -p . < index.jade > lancio.html
+jade -p . < index.jade > index.html
